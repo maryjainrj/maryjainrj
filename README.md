@@ -19,7 +19,7 @@
 ---
 
 ## 👩‍💻 About Me
-I’m a **Java Backend Developer** with **6+ years of experience** building and supporting **enterprise-grade applications**.
+I’m a **Java Backend Developer**  building and supporting **enterprise-grade applications**.
 
 My primary strength is **backend engineering** — designing REST APIs, working with databases, handling production incidents, and ensuring systems remain stable in real-world environments.
 
