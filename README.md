@@ -5,7 +5,7 @@
 
 
 <p align="center">
-📍 Ontario, Canada • 💻  Java Developer / Backend / Application Support Engineer
+📍 Ontario, Canada • 💻  Java Developer / Full Stack / Application Support Engineer
 </p>
 
 <p align="center">
