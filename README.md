@@ -83,10 +83,10 @@ Alongside my industry experience, I completed a **Post Graduate Certificate in W
 ---
 
 ### DevOps, Security & Quality
-- Git, GitHub (branching, PRs, reviews)
-- GitHub Actions (CI fundamentals)
-- Docker (basics)
-- Web security fundamentals (OWASP concepts)
+- Git, GitHub 
+- GitHub Actions 
+- Docker 
+- Web security fundamentals 
 - QA, testing, and debugging practices
 
 ---
