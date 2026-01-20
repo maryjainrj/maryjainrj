@@ -13,7 +13,7 @@
   <a href="mailto:maryjainrj@gmail.com">
     <img src="https://img.shields.io/badge/Email-maryjainrj%40gmail.com-red?style=flat-square"/>
   </a>
-  <a href="https://www.linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/mary-jain-joshy">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square"/>
   </a>
 </p>
