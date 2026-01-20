@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/maryjainrj/maryjainrj/main/banner.png)
 
-<h1 align="center">Hi 👋, I'm Mary Jain Joshy</h1>
-<h3 align="center">Java Backend Developer (Primary)  | Application Support | Full-Stack </h3>
+<img width="2125" height="593" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/bcd13964-db81-4721-a64f-1058d577701f" />
+
 
 <p align="center">
 📍 Ontario, Canada • 💻  Java Developer / Backend / Application Support Engineer Roles
