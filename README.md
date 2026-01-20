@@ -7,12 +7,7 @@
 📍 Ontario, Canada • 💻 Open to Java / Backend / Full Stack Roles
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maryjainrj&color=blue"/>
-  <a href="https://github.com/maryjainrj">
-    <img src="https://img.shields.io/github/followers/maryjainrj?label=Follow&style=social"/>
-  </a>
-</p>
+
 
 <p align="center">
   <a href="mailto:maryjainrj@gmail.com">
