@@ -108,7 +108,7 @@ Program focused on **industry-aligned, hands-on development**, covering frontend
 ---
 
 ## 📂 About My GitHub Projects
-The repositories on my GitHub represent a combination of **graduate-level academic work** and **independent side projects** which is still ongoing !!!.
+The repositories on my GitHub represent a combination of **graduate-level academic work** and **independent side projects** which is still ongoing!.
 
 ---
 
