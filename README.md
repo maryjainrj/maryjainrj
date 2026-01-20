@@ -132,6 +132,7 @@ Contributed **merged PRs** to collaborative repositories, including:
 - Wemart
 - Craftique
 - ASP.NET Travel Booking System
+- CineScope
 
 Comfortable working in **team-based, shared repositories** with coding standards and review processes.
 
