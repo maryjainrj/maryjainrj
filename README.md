@@ -4,7 +4,7 @@
 <h3 align="center">Java Backend Developer (Primary) | Full Stack Experience</h3>
 
 <p align="center">
-📍 Ontario, Canada • 💻 Open to Java / Backend Roles
+📍 Ontario, Canada • 💻 Open to Java Developer/ Application Support Engineer Roles
 </p>
 
 <p align="center">
