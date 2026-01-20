@@ -1,10 +1,10 @@
 ![Banner](https://raw.githubusercontent.com/maryjainrj/maryjainrj/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Mary Jain Joshy</h1>
-<h3 align="center">Java Backend Developer (Primary) | Full Stack Experience</h3>
+<h3 align="center">Java Backend Developer (Primary) | Full-Stack Experience | Application Support</h3>
 
 <p align="center">
-📍 Ontario, Canada • 💻 Open to Java Developer/ Application Support Engineer Roles
+📍 Ontario, Canada • 💻 Open to Java Developer / Backend / Application Support Engineer Roles
 </p>
 
 <p align="center">
@@ -21,41 +21,65 @@
 ## 👩‍💻 About Me
 I’m a **Java Backend Developer** with **6+ years of experience** building and supporting **enterprise-grade applications**.
 
-My core strength is **backend systems** — designing REST APIs, working with databases, handling production issues, and ensuring systems stay reliable under real-world conditions. I also have **full-stack experience**, which helps me build APIs that frontend teams actually enjoy using.
+My primary strength is **backend engineering** — designing REST APIs, working with databases, handling production incidents, and ensuring systems remain stable in real-world environments.
 
-
+In addition to my backend experience, I have **strong full-stack exposure through a structured Graduate Certificate in Web Development at Conestoga College**, where I worked across frontend, backend, databases, mobile development, cloud deployment, and security. This allows me to collaborate effectively across the stack and build backend systems that align well with frontend and product needs.
 
 ---
 
 ## 🧠 What I Actually Do Well
 - Build and maintain **Java & Spring Boot backend services**
-- Design **clean REST APIs** with validation & error handling
-- Debug **production issues** (logs, DB, services, APIs)
+- Design **clean, maintainable REST APIs**
+- Debug **production issues** (logs, APIs, databases, services)
 - Work in **high-availability enterprise environments**
-- Collaborate through **code reviews & open-source PRs**
+- Contribute to **shared codebases** via reviews and merged PRs
 
 ---
 
-## 🛠️ Core Tech Stack (Focused)
+## 🛠️ Core Tech Stack (Focused & Honest)
 
-**Backend**
+### Backend (Primary)
 - Java, Spring Boot
 - Node.js, Express
-- REST APIs, JWT / OAuth
+- REST APIs, JWT, OAuth
+- Production support (L2/L3)
+- Linux / Unix debugging
 
-**Frontend (working knowledge)**
-- React, HTML, CSS, Tailwind
+### Frontend (Working Knowledge)
+- React
+- HTML5, CSS3
+- Tailwind CSS
+- Responsive & accessible UI integration
 
-**Databases**
-- MySQL
-- MongoDB
+### Databases
+- MySQL (schema design, queries, procedures)
+- MongoDB (collections, indexing)
 
-**DevOps & Tools**
+### DevOps & Tools
 - Git, GitHub
 - Docker (basics)
-- GitHub Actions (CI basics)
-- Linux / Unix debugging
+- GitHub Actions (CI fundamentals)
 - Postman
+- Cloud deployment exposure (Render, Azure basics)
+
+---
+
+## 🎓 Full-Stack Education (Why I’m Flexible)
+**Graduate Certificate – Web Development**  
+**Conestoga College, Ontario**
+
+Hands-on coursework across:
+- Responsive & accessible frontend development
+- JavaScript (advanced), Node.js, REST APIs
+- Relational & NoSQL database design
+- Full-stack MERN applications
+- Mobile app development (Android – Java)
+- ASP.NET Core & C# development
+- Web security, QA, and performance
+- Cloud deployment & CI fundamentals
+- Capstone project delivering an industry-standard web application
+
+This training complements my backend experience and enables me to work confidently across the full stack when required.
 
 ---
 
@@ -69,30 +93,31 @@ My core strength is **backend systems** — designing REST APIs, working with da
 - React frontend + Node backend
 - Designed to be **deployment-ready**
 
-This project represents my ability to **own a feature end-to-end**.
+This project demonstrates my ability to **own a feature end-to-end**, from backend logic to frontend integration.
 
 ---
 
 ## 🤝 Open Source & Team Contributions
-I’ve contributed **merged PRs** to multiple collaborative repositories, including:
+Contributed **merged PRs** to collaborative repositories, including:
 - TypoRush
 - Wemart / Craftique
 - Group3_FinalProject
 - ASP.NET Travel Booking System
 
-I’m comfortable working in **shared codebases**, following conventions, and shipping incremental improvements.
+Comfortable working in **team-based, shared repositories** with coding standards and review processes.
 
 ---
 
 ## 🏆 Professional Highlights
 - Supported **24/7 production systems**
-- Performed **root cause analysis** on live issues
-- Reduced manual effort by **~70%** through improvements
-- Experience across **development + production support**
+- Performed **root cause analysis** on live incidents
+- Reduced manual effort by **~70%** through system improvements
+- Experience across **development, support, and stakeholder-facing roles**
 
 ---
 
 ## 🎯 Roles I’m Targeting
 - Java Backend Developer  
+- Backend Engineer  
+- Application Support Engineer  
 - Software Engineer (Enterprise / Web Applications)
--Application support Engineer
