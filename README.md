@@ -23,7 +23,7 @@ I’m a **Java Backend Developer** with **6+ years of experience** building and 
 
 My primary strength is **backend engineering** — designing REST APIs, working with databases, handling production incidents, and ensuring systems remain stable in real-world environments.
 
-In addition to my backend experience, I have **strong full-stack exposure through a structured Graduate Certificate in Web Development at Conestoga College**, where I worked across frontend, backend, databases, mobile development, cloud deployment, and security. This allows me to collaborate effectively across the stack and build backend systems that align well with frontend and product needs.
+In addition to my backend experience, I have **strong full-stack exposure through a structured Graduate Certificate in Web Development **, where I worked across frontend, backend, databases, mobile development, cloud deployment, and security. This allows me to collaborate effectively across the stack and build backend systems that align well with frontend and product needs.
 
 ---
 
