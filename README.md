@@ -48,7 +48,7 @@ Alongside my industry experience, I completed a **Post Graduate Certificate in W
 
 ---
 
-### Frontend (Working Knowledge)
+### Frontend 
 - React (components, state, routing)
 - HTML5, CSS3
 - Tailwind CSS
