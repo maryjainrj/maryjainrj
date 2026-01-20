@@ -101,24 +101,14 @@ Alongside my industry experience, I completed a **Post Graduate Certificate in W
 
 ## 🎓 Education
 **Post Graduate Certificate – Web Development**  
-Conestoga College, Ontario  
+
 
 Program focused on **industry-aligned, hands-on development**, covering frontend, backend, databases, mobile applications, security, cloud deployment, and CI/CD, and culminating in a **capstone AI-based web application**.
 
 ---
 
 ## 📂 About My GitHub Projects
-The repositories on my GitHub represent a combination of **graduate-level academic work** and **independent side projects**.
-
-These projects were built following **industry-aligned practices**, including:
-- Clean, modular code structure
-- Backend-focused architecture
-- REST API development and integration
-- Version control with pull requests
-- Team collaboration and code reviews
-- Documentation and deployment readiness
-
-They demonstrate how I apply both my **professional backend experience** and **full-stack training** in practical, working code.
+The repositories on my GitHub represent a combination of **graduate-level academic work** and **independent side projects** which is still ongoing !!!.
 
 ---
 
