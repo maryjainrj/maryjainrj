@@ -23,6 +23,8 @@ I’m a **Java Backend Developer** with **6+ years of experience** building and 
 
 My core strength is **backend systems** — designing REST APIs, working with databases, handling production issues, and ensuring systems stay reliable under real-world conditions. I also have **full-stack experience**, which helps me build APIs that frontend teams actually enjoy using.
 
+
+
 ---
 
 ## 🧠 What I Actually Do Well
