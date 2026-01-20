@@ -23,7 +23,7 @@ I’m a **Java Backend Developer** with **6+ years of experience** building and 
 
 My primary strength is **backend engineering** — designing REST APIs, working with databases, handling production incidents, and ensuring systems remain stable in real-world environments.
 
-In addition to my backend experience, I have **strong full-stack exposure through a structured Post Graduate Certificate in Web Development**, where I worked across frontend, backend, databases, mobile development, cloud deployment, and security. This allows me to collaborate effectively across the stack and build backend systems that align well with frontend and product needs.
+Alongside my industry experience, I completed a **Post Graduate Certificate in Web Development**, which provided **hands-on full-stack exposure** across frontend, backend, databases, mobile development, cloud deployment, and security. This allows me to collaborate effectively across teams and build backend systems that align well with frontend and product needs.
 
 ---
 
@@ -36,50 +36,89 @@ In addition to my backend experience, I have **strong full-stack exposure throug
 
 ---
 
-## 🛠️ Core Tech Stack (Focused & Honest)
+## 🛠️ Core Tech Stack (Industry + College Combined)
 
 ### Backend (Primary)
 - Java, Spring Boot
 - Node.js, Express
-- REST APIs, JWT, OAuth
+- REST API design & integration
+- Authentication: JWT, OAuth
 - Production support (L2/L3)
-- Linux / Unix debugging
-
-### Frontend (Working Knowledge)
-- React
-- HTML5, CSS3
-- Tailwind CSS
-- Responsive & accessible UI integration
-
-### Databases
-- MySQL (schema design, queries, procedures)
-- MongoDB (collections, indexing)
-
-### DevOps & Tools
-- Git, GitHub
-- Docker (basics)
-- GitHub Actions (CI fundamentals)
-- Postman
-- Cloud deployment exposure (Render, Azure basics)
+- Linux / Unix debugging (logs, processes, services)
 
 ---
 
-## 🎓 Full-Stack Education (Why I’m Flexible)
-**Graduate Certificate – Web Development**  
+### Frontend (Working Knowledge)
+- React (components, state, routing)
+- HTML5, CSS3
+- Tailwind CSS
+- Responsive & accessible UI development
+- UI/UX awareness from design & interaction coursework
 
+---
 
-Hands-on coursework across:
-- Responsive & accessible frontend development
-- JavaScript (advanced), Node.js, REST APIs
-- Relational & NoSQL database design
-- Full-stack MERN applications
-- Mobile app development (Android – Java)
-- ASP.NET Core & C# development
-- Web security, QA, and performance
-- Cloud deployment & CI fundamentals
-- Capstone project delivering an industry-standard web application
+### Databases
+- **MySQL**
+  - schema design & normalization  
+  - joins, procedures, transactions  
+- **MongoDB**
+  - collections, indexing  
+  - aggregation basics  
 
-This training complements my backend experience and enables me to work confidently across the full stack when required.
+---
+
+### Full-Stack & Web Technologies
+- MERN stack (MongoDB, Express, React, Node)
+- Asynchronous JavaScript, APIs, JSON
+- Server-side validation & session management
+- Cloud deployment fundamentals
+
+---
+
+### Mobile & Cross-Platform
+- Android application development (Java)
+- Authentication & cloud-based data interaction
+- Exposure to cross-platform concepts
+
+---
+
+### DevOps, Security & Quality
+- Git, GitHub (branching, PRs, reviews)
+- GitHub Actions (CI fundamentals)
+- Docker (basics)
+- Web security fundamentals (OWASP concepts)
+- QA, testing, and debugging practices
+
+---
+
+### Tools & Practices
+- Postman (API testing)
+- Agile & project management fundamentals
+- Requirements gathering & documentation
+- Accessibility & standards-based development
+
+---
+
+## 🎓 Education
+**Post Graduate Certificate – Web Development**  
+Conestoga College, Ontario  
+
+Program focused on **industry-aligned, hands-on development**, covering frontend, backend, databases, mobile applications, security, cloud deployment, and CI/CD, and culminating in a **capstone AI-based web application**.
+
+---
+
+## 📂 About My GitHub Projects
+The repositories on my GitHub represent a combination of **graduate-level academic work** and **independent side projects**.
+
+These projects were built following **industry-aligned practices**, including:
+- Clean, modular code structure
+- Backend-focused architecture
+- REST API development and integration
+- Version control with pull requests
+- Team collaboration and code reviews
+- Documentation and deployment readiness
+
+They demonstrate how I apply both my **professional backend experience** and **full-stack training** in practical, working code.
 
 ---
 
@@ -101,7 +140,7 @@ This project demonstrates my ability to **own a feature end-to-end**, from backe
 Contributed **merged PRs** to collaborative repositories, including:
 - TypoRush
 - Wemart
--  Craftique
+- Craftique
 - ASP.NET Travel Booking System
 
 Comfortable working in **team-based, shared repositories** with coding standards and review processes.
