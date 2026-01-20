@@ -5,7 +5,7 @@
 
 
 <p align="center">
-📍 Ontario, Canada • 💻  Java Developer / Backend / Application Support Engineer Roles
+📍 Ontario, Canada • 💻  Java Developer / Backend / Application Support Engineer
 </p>
 
 <p align="center">
@@ -147,7 +147,7 @@ Comfortable working in **team-based, shared repositories** with coding standards
 
 ---
 
-## 🎯 My Role Focus
+## 🎯 My Focus Areas
 - Java Backend Developer  
 - Application Support Engineer  
 - Software Engineer (Enterprise / Web Applications)
