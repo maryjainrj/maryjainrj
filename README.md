@@ -7,8 +7,6 @@
 📍 Ontario, Canada • 💻 Open to Java / Backend / Full Stack Roles
 </p>
 
-
-
 <p align="center">
   <a href="mailto:maryjainrj@gmail.com">
     <img src="https://img.shields.io/badge/Email-maryjainrj%40gmail.com-red?style=flat-square"/>
@@ -23,28 +21,28 @@
 ## 👩‍💻 About Me
 I’m **Mary Jain**, a **Software Developer and Open Source Contributor** with **6+ years of experience** across **Java development, backend systems, and production support**.
 
-I enjoy building **scalable, real-world applications**, debugging complex issues, and collaborating on open-source and group projects. My experience spans **enterprise production environments**, academic projects, and community-driven development.
+I specialize in building **scalable, real-world applications**, designing **clean backend architectures**, and solving **production-level issues**. My background spans **enterprise environments**, **full-stack academic projects**, and **open-source collaboration**, allowing me to comfortably own features end-to-end.
 
 **What defines me:**
-- Clean, maintainable code
-- Strong backend & API focus
-- Calm under production pressure
-- Comfortable owning features end-to-end
+- Clean, maintainable, readable code
+- Strong backend & API-first mindset
+- Calm and methodical during production issues
+- Comfortable working across development, support, and collaboration roles
 
 ---
 
 ## 🧠 Core Strengths
 ✔️ Backend & REST API development  
 ✔️ Full-stack application design  
-✔️ Production debugging & issue resolution  
-✔️ Open-source collaboration (PRs & reviews)  
-✔️ Turning requirements into working systems  
+✔️ Enterprise production debugging & support  
+✔️ Open-source collaboration (merged PRs)  
+✔️ Translating requirements into reliable systems  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Languages
+### 👩‍💻 Programming Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
@@ -53,14 +51,24 @@ I enjoy building **scalable, real-world applications**, debugging complex issues
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42"/>
 </p>
 
-### ⚙️ Backend & Frameworks
+---
+
+### ⚙️ Backend, APIs & Enterprise Tech
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/>
 </p>
 
-### 🌐 Frontend
+- RESTful API design & integration  
+- JWT & OAuth-based authentication  
+- Microservice-style backend architecture  
+- Production support (L2/L3)  
+- Unix/Linux debugging (logs, processes, services)
+
+---
+
+### 🌐 Frontend & UI
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
@@ -68,71 +76,113 @@ I enjoy building **scalable, real-world applications**, debugging complex issues
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42"/>
 </p>
 
-### 🗄️ Databases, DevOps & Tools
+- Responsive UI development  
+- Component-based architecture  
+- API-driven frontend integration  
+
+---
+
+### 🗄️ Databases
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/>
+</p>
+
+- SQL schema design & query optimization  
+- MongoDB collections, indexing & aggregation  
+
+---
+
+### 🚀 DevOps, Cloud & Tools
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
 </p>
+
+- GitHub Actions (CI/CD basics)  
+- Azure (basic services & deployment exposure)  
+- Postman (API testing)  
+- Render & container-based deployment  
 
 ---
 
 ## ⭐ Featured Project — QuizCraft
 🔗 https://github.com/maryjainrj/quizcraft  
 
-**QuizCraft** is a **full-stack quiz generation platform** that:
+**QuizCraft** is a **full-stack quiz generation platform** designed to transform documents into interactive assessments.
+
+**Key Features**
 - Extracts content from **PDFs & Word documents**
-- Generates quizzes with **answer keys**
-- Supports **math & equation parsing (LaTeX)**
-- Allows quiz editing & deployment-ready setup
+- Automatically generates quizzes with **answer keys**
+- Supports **math & equation parsing using LaTeX**
+- Quiz editing and review workflow
+- Deployment-ready configuration
 
 **Tech Used**
-- Frontend: React, Vite
-- Backend: Node.js, Express
-- Document Parsing: mammoth (Word)
-- Auth & Integrations: Google OAuth (optional)
-- Deployment: Render / container-ready
+- Frontend: React, Vite  
+- Backend: Node.js, Express  
+- Document parsing: mammoth (Word)  
+- Auth & integrations: Google OAuth (optional)  
+- Deployment: Render / container-ready  
 
 ---
 
 ## 🤝 Open Source & Group Contributions
-I actively contribute to collaborative repositories with **merged PRs**, including:
+I actively contribute to collaborative repositories with **merged pull requests**, including:
 
-- **TypoRush** — multiple PRs (features & fixes)  
+- **TypoRush** — feature development & bug fixes  
 - **Wemart / Craftique** — frontend & backend contributions  
 - **Group3_FinalProject** — collaborative academic project  
 - **ASP.NET Travel Booking System** — group contribution  
 
-Collaborated with:
-- Mohamed495104
-- Smarty6452
-- greeshmaprasad72
+**Collaborated with**
+- Mohamed495104  
+- Smarty6452  
+- greeshmaprasad72  
 
 ---
 
 ## 🏆 Career Highlights
 - 🏢 Experience in **enterprise production environments**
-- 🛠️ Supported **24/7 critical systems**
-- 📉 Reduced manual effort by **~70%** through improvements
-- 👥 Worked across **development, support, and client-facing roles**
+- 🛠️ Supported **24/7 critical applications**
+- 📉 Reduced manual operational effort by **~70%**
+- 👥 Worked across **development, support, and client-facing teams**
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maryjainrj&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryjainrj&layout=compact&theme=tokyonight" height="160"/>
-</p>
+## 💼 Professional Experience (Summary)
+
+### 🧑‍💻 Software Developer / Java Developer
+- Built and maintained **Java-based backend applications**
+- Designed and implemented **REST APIs** consumed by multiple clients
+- Worked in **production support environments** with high availability requirements
+- Performed **log analysis, root cause analysis, and service recovery**
+- Collaborated in Agile teams to deliver features and resolve defects
+
+### 🛠️ Production Support & Reliability
+- Handled live production incidents with ownership and urgency
+- Debugged API, database, and application-layer issues
+- Implemented fixes and optimizations improving stability and efficiency
+- Ensured system reliability, performance, and data integrity
+
+---
+
+## 🧩 How I Work
+- I prioritize **clarity, reliability, and maintainability**
+- I break complex problems into **simple, testable components**
+- I value readable code over clever shortcuts
+- I document decisions so others can build on my work
+- I treat production issues with responsibility and ownership
+
 
 ---
 
 ## 🧭 Currently Learning
 - Advanced Java & Spring Boot
 - System Design fundamentals
-- Clean Architecture & best practices
-- Docker & cloud basics
+- Clean Architecture principles
+- Docker & cloud-native basics
 
 ---
 
