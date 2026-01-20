@@ -147,6 +147,5 @@ Comfortable working in **team-based, shared repositories** with coding standards
 
 ## 🎯 Roles I’m Targeting
 - Java Backend Developer  
-- Backend Engineer  
 - Application Support Engineer  
 - Software Engineer (Enterprise / Web Applications)
