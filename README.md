@@ -100,8 +100,8 @@ This project demonstrates my ability to **own a feature end-to-end**, from backe
 ## 🤝 Open Source & Team Contributions
 Contributed **merged PRs** to collaborative repositories, including:
 - TypoRush
-- Wemart / Craftique
-- Group3_FinalProject
+- Wemart
+-  Craftique
 - ASP.NET Travel Booking System
 
 Comfortable working in **team-based, shared repositories** with coding standards and review processes.
