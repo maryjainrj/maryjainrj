@@ -1,6 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/maryjainrj/maryjainrj/main/banner.png)
 
-<img width="2125" height="593" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/bcd13964-db81-4721-a64f-1058d577701f" />
+<img width="2125" height="593" alt="github-header-banner (3)" src="https://github.com/user-attachments/assets/f2a1b439-c2ba-446f-a356-a28abb9c7307" />
+
 
 
 <p align="center">
