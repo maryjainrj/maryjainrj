@@ -66,7 +66,7 @@ In addition to my backend experience, I have **strong full-stack exposure throug
 
 ## 🎓 Full-Stack Education (Why I’m Flexible)
 **Graduate Certificate – Web Development**  
-**Conestoga College, Ontario**
+
 
 Hands-on coursework across:
 - Responsive & accessible frontend development
